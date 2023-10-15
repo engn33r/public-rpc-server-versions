@@ -1,0 +1,54 @@
+  >>> https://polygon.llamarpc.com
+llamanodes_web3_proxy/v1.43.48
+
+  >>> https://polygon-mainnet.rpcfast.com?api_key=xbhWBI1Wkguk8SNMu1bvvLurPGLXmgwYeC4S6g2H7WdwFigZSmPWVZRxrskEQwIf
+bor/v1.0.6/linux-amd64/go1.21.3
+
+  >>> https://polygon.rpc.blxrbdn.com
+bor/v1.0.6/linux-amd64/go1.21.3
+
+  >>> https://polygon-bor.publicnode.com
+bor/v1.0.6/linux-amd64/go1.21.2
+
+  >>> https://polygon.blockpi.network/v1/rpc/public
+bor/v1.0.6/linux-amd64/go1.19.10
+
+  >>> https://rpc.ankr.com/polygon
+erigon/2.52.1/linux-amd64/go1.20.5
+
+  >>> https://1rpc.io/matic
+bor/v1.0.4/linux-amd64/go1.20.5
+
+  >>> https://rpc-mainnet.matic.quiknode.pro
+bor/v1.0.6/linux-amd64/go1.20.8
+
+  >>> https://poly-rpc.gateway.pokt.network
+bor/v1.0.6/linux-amd64/go1.21.2
+
+  >>> https://endpoints.omniatech.io/v1/matic/mainnet/public
+bor/v1.0.6/linux-amd64/go1.20.5
+
+  >>> https://polygon.meowrpc.com
+bor/v1.0.6/linux-amd64/go1.21.3
+
+  >>> https://polygon.drpc.org
+dRPC/1.0.0
+
+  >>> https://polygon-rpc.com
+bor/v1.0.6/linux-amd64/go1.20.8
+
+  >>> https://rpc-mainnet.maticvigil.com
+bor/v1.0.6/linux-arm64/go1.20.5
+
+  >>> https://gateway.tenderly.co/public/polygon
+Tenderly/1.0
+
+  >>> https://polygon.gateway.tenderly.co
+Tenderly/1.0
+
+  >>> https://polygon-mainnet.public.blastapi.io
+erigon/2.48.0/linux-amd64/go1.20.5
+
+  >>> https://polygon.api.onfinality.io/public
+erigon/2.52.1/linux-amd64/go1.20.3
+

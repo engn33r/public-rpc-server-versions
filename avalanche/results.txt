@@ -1,0 +1,32 @@
+  >>> https://avalanche.blockpi.network/v1/rpc/public
+v0.12.5
+
+  >>> https://avalanche-c-chain.publicnode.com
+v0.12.5
+
+  >>> https://rpc.ankr.com/avalanche
+v0.12.5
+
+  >>> https://avalanche.public-rpc.com
+v0.12.5
+
+  >>> https://avax.meowrpc.com
+v0.12.5
+
+  >>> https://ava-mainnet.public.blastapi.io/ext/bc/C/rpc
+v0.12.0
+
+  >>> https://avalanche.drpc.org
+dRPC/1.0.0
+
+  >>> https://api.avax.network/ext/bc/C/rpc
+v0.12.6
+
+  >>> https://1rpc.io/avax/c
+v0.12.5
+
+  >>> https://avalanche.api.onfinality.io/public/ext/bc/C/rpc
+v0.12.0
+
+  >>> https://endpoints.omniatech.io/v1/avax/mainnet/public
+v0.12.5

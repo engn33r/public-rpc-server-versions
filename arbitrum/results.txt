@@ -1,0 +1,42 @@
+  >>> https://arbitrum.llamarpc.com
+llamanodes_web3_proxy/v1.43.48
+
+  >>> https://arbitrum.api.onfinality.io/public
+nitro/vv2.0.14-2baa834/linux-amd64/go1.19.9
+
+  >>> https://arb-mainnet-public.unifra.io
+nitro/vv2.0.14-2baa834/linux-amd64/go1.19.9
+
+  >>> https://arbitrum-one.public.blastapi.io
+nitro/vv2.0.12-65d4e7a/linux-amd64/go1.19.7
+
+  >>> https://arbitrum.blockpi.network/v1/rpc/public
+nitro/vv2.1.1-e9d8842/linux-amd64/go1.20.8
+
+  >>> https://arb-mainnet.g.alchemy.com/v2/demo
+null
+
+  >>> https://rpc.arb1.arbitrum.gateway.fm
+chainnodes/latest
+
+  >>> https://arbitrum.meowrpc.com
+nitro/vv2.1.1-e9d8842/linux-amd64/go1.20.8
+
+  >>> https://endpoints.omniatech.io/v1/arbitrum/one/public
+nitro/vv2.0.14-2baa834/linux-amd64/go1.19.9
+
+  >>> https://rpc.ankr.com/arbitrum
+nitro/vv2.0.14-2baa834/linux-amd64/go1.19.9
+
+  >>> https://arbitrum-one.publicnode.com
+nitro/v2baa834-modified/linux-amd64/go1.19.9
+
+  >>> https://arb1.arbitrum.io/rpc
+nitro/vv2.1.1-e9d8842/linux-amd64/go1.20.8
+
+  >>> https://1rpc.io/arb
+nitro/vv2.0.14-2baa834/linux-amd64/go1.19.9
+
+  >>> https://arbitrum.drpc.org
+dRPC/1.0.0
+

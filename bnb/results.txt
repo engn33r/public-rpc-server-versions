@@ -1,0 +1,105 @@
+  >>> https://binance.llamarpc.com
+llamanodes_web3_proxy/v1.43.48
+
+  >>> https://bsc-mainnet.rpcfast.com?api_key=xbhWBI1Wkguk8SNMu1bvvLurPGLXmgwYeC4S6g2H7WdwFigZSmPWVZRxrskEQwIf
+Geth/v1.2.9/linux-amd64/go1.19.11
+
+  >>> https://bsc.rpc.blxrbdn.com
+Geth/v1.2.12-2f7df384-20230915/linux-amd64/go1.20.2
+
+  >>> https://bsc.publicnode.com
+Geth/v1.2.12-bb6bdc05/linux-amd64/go1.19.13
+
+  >>> https://bsc.meowrpc.com
+Geth/v1.2.9/linux-amd64/go1.19.11
+
+  >>> https://rpc.ankr.com/bsc
+erigon/1.1.9/linux-amd64/go1.20.5
+
+  >>> https://bsc-rpc.gateway.pokt.network
+Geth/v1.2.12-bb6bdc05-20230911/linux-amd64/go1.19.12
+
+  >>> https://koge-rpc-bsc.48.club
+Geth/v1.2.11-0b0cceec-20230908/linux-amd64/go1.20.3
+
+  >>> https://rpc-bsc.48.club
+Geth/v1.2.12-bb6bdc05-20230911/linux-amd64/go1.20.8
+
+  >>> https://bsc-mainnet.nodereal.io/v1/64a9df0874fb4a93b9d0a3849de012d3
+Geth/v1.2.11-b6cb52c7/linux-amd64/go1.19.12
+
+  >>> https://bsc-dataseed4.binance.org
+Geth/v1.2.10-2b836937/linux-amd64/go1.19.7
+
+  >>> https://bsc-dataseed1.binance.org
+Geth/v1.2.10-2b836937/linux-amd64/go1.19.7
+
+  >>> https://bsc-dataseed4.defibit.io
+Geth/v1.2.10-2b836937/linux-amd64/go1.19.7
+
+  >>> https://bsc-dataseed3.defibit.io
+Geth/v1.2.11-b6cb52c7/linux-amd64/go1.19.12
+
+  >>> https://bsc-dataseed2.defibit.io
+Geth/v1.2.10-2b836937/linux-amd64/go1.19.7
+
+  >>> https://bsc-dataseed1.defibit.io
+Geth/v1.2.10-2b836937/linux-amd64/go1.19.7
+
+  >>> https://bsc-dataseed.binance.org
+Geth/v1.2.10-2b836937/linux-amd64/go1.19.7
+
+  >>> https://bsc-dataseed2.bnbchain.org
+Geth/v1.2.10-2b836937/linux-amd64/go1.19.7
+
+  >>> https://bsc-dataseed1.bnbchain.org
+Geth/v1.2.10-2b836937/linux-amd64/go1.19.7
+
+  >>> https://bsc.blockpi.network/v1/rpc/public
+Geth/v1.2.11-7a19cd27-20230823/linux-amd64/go1.19.12
+
+  >>> https://binance.nodereal.io
+Geth/v1.2.10-2b836937/linux-amd64/go1.19.7
+
+  >>> https://endpoints.omniatech.io/v1/bsc/mainnet/public
+Geth/v1.2.10-2b836937/linux-amd64/go1.19.7
+
+  >>> https://bsc-dataseed3.binance.org
+Geth/v1.2.11-b6cb52c7/linux-amd64/go1.19.12
+
+  >>> https://bsc-dataseed2.binance.org
+Geth/v1.2.10-2b836937/linux-amd64/go1.19.7
+
+  >>> https://bsc-dataseed2.ninicoin.io
+Geth/v1.2.10-2b836937/linux-amd64/go1.19.7
+
+  >>> https://bsc-dataseed1.ninicoin.io
+Geth/v1.2.10-2b836937/linux-amd64/go1.19.7
+
+  >>> https://bscrpc.com
+erigon/1.1.9/linux-amd64/go1.20.5
+
+  >>> https://bsc-dataseed4.bnbchain.org
+Geth/v1.2.10-2b836937/linux-amd64/go1.19.7
+
+  >>> https://bsc-dataseed3.bnbchain.org
+Geth/v1.2.11-b6cb52c7/linux-amd64/go1.19.12
+
+  >>> https://1rpc.io/bnb
+Geth/v1.2.11-b6cb52c7/linux-amd64/go1.19.12
+
+  >>> https://bsc-dataseed4.ninicoin.io
+Geth/v1.2.10-2b836937/linux-amd64/go1.19.7
+
+  >>> https://bsc-dataseed3.ninicoin.io
+Geth/v1.2.11-b6cb52c7/linux-amd64/go1.19.12
+
+  >>> https://bnb.api.onfinality.io/public
+erigon/1.1.6/linux-amd64/go1.20.7
+
+  >>> https://bsc.drpc.org
+dRPC/1.0.0
+
+  >>> https://bsc-mainnet.public.blastapi.io
+erigon/1.1.6/linux-amd64/go1.20.7
+
